@@ -4,6 +4,7 @@ fundamental programming concepts, algorithms, and problem-solving skills using C
 demonstrates a specific exercise or programming technique.
 
 Below is a brief description of the files found in the repository:
+
 **1. binaryRecursiveSearch.cpp**
 Implementation of a binary recursive search algorithm.
 
